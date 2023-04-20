@@ -12,4 +12,3 @@ Include a screenshot of the relevant section of the updated DAG. You can access 
 -- [ ] I have added appropriate tests and documentation to any new models.
 ## Table(s) info
 | dbt model name  | grain/pk | materialization |
-![image](https://user-images.githubusercontent.com/84411806/233396489-19722e80-cb7d-4b8f-b88e-944df2a7c1e5.png)
