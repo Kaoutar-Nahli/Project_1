@@ -1,11 +1,10 @@
 Provide a short summary in the Title above. Examples of good PR titles:
 * "Feature: add so-and-so tables"
 * "Fix: deduplicate such-and-such"
-* "Update: environment pacckages"
 ## Description & motivation
 Describe your changes, and why you're making them. Is this linked to an open issue, a DevOps ticket, or another pull request? Link it here.
 ## Screenshots:
-Include a screenshot needed.
+Include a screenshot if needed.
 ## Pull request checklist
 - [ ] My pull request represents one logical piece of work.
 - [ ] My commits are related to the pull request and look clean.
